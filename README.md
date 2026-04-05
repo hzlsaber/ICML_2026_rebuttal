@@ -40,7 +40,7 @@ We extracted CLIP (ViT-L/14) embeddings from images across three platforms and v
 
 ### Figure 1: CLIP embedding distribution across Reddit, X, and Instagram.
 
-![Cross-Platform t-SNE](contents/t-sne.png)
+![Cross-Platform t-SNE](contents/compare_t_sne.png)
 
 Image embeddings from all three platforms exhibit substantial overlap in the semantic space, with no clear platform-specific clustering. This confirms that Reddit content covers a similar semantic distribution to X and Instagram.
 
